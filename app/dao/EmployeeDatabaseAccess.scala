@@ -1,6 +1,6 @@
 package dao
 
-import Model.{EmployeeTable, EmployeeInfo}
+import model.{EmployeeTable, EmployeeInfo}
 import play.api.db.slick.{DatabaseConfigProvider, HasDatabaseConfigProvider}
 import slick.jdbc.JdbcProfile
 import slick.jdbc.MySQLProfile.api._

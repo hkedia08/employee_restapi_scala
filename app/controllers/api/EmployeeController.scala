@@ -1,6 +1,6 @@
 package controllers.api
 
-import Model.EmployeeInfo
+import model.EmployeeInfo
 import javax.inject._
 import play.api.libs.json.{JsError, JsValue, Json}
 import play.api.libs.json.Format.GenericFormat

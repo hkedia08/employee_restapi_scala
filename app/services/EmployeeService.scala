@@ -1,6 +1,6 @@
 package services
 
-import Model.EmployeeInfo
+import model.EmployeeInfo
 import dao.EmployeeDatabaseAccess
 import scala.concurrent.ExecutionContext.Implicits.global
 
