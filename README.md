@@ -2,6 +2,15 @@
 
 This project implements a RESTful API for managing employee data using Scala and a MySQL database.
 
+## Features
+
+- **Add Employee**: Allows adding a new employee to the database.
+- **Get Employee**: Retrieves a specific employee by company and ID.
+- **Update Employee**: Updates employee details by company and ID.
+- **Delete Employee**: Deletes an employee by ID.
+- **Get Employees by Company**: Retrieves all employees for a specific company.
+
+
 ## Database Setup
 
 1. Create a database named `employeedbscala` if it doesn't already exist.
