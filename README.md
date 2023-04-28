@@ -14,12 +14,6 @@ This project implements a RESTful API for managing employee data using Scala and
 
 The API endpoints are defined as follows:
 
-- **Home**: Returns a sample home page.
-  - `GET /`
-
-- **Static Resources**: Maps static resources from the `/public` folder to the `/assets` URL path.
-  - `GET /assets/*file`
-
 - **Add Employee**: Adds a new employee.
   - `POST /api/employee/add`
 
